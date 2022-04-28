@@ -1,0 +1,46 @@
+.imagen {
+    
+    background-color: gray;
+    font-size: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5%;
+
+}
+
+div {
+    display: block;
+    background-color: brown;
+    display: flex;
+    flex-direction:  row;
+    justify-content: center;
+    flex-wrap: wrap;
+      
+}
+
+article {
+    background-color: aqua;
+    padding: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+
+
+}
+
+aside {
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
